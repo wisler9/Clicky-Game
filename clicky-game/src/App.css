@@ -1,0 +1,22 @@
+
+h1 {
+  font-weight: 600;
+  font-size: 4em;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 300;
+  text-align: center;
+}
+
+h3 {
+  padding: 0 100px;
+  text-align: center;
+  color: white;
+}
+
+
+nav {
+  height: 80px;
+}

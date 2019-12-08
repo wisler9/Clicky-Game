@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Goku God",
+    "image": "https://cdna.artstation.com/p/assets/images/images/008/464/506/large/amit-baokar-goku-1-0.jpg?1512968898",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "GT Goku",
+    "image": "https://media.comicbook.com/2019/03/goku-1163197.jpeg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Goku Blue",
+    "image": "https://i.ebayimg.com/images/g/JDcAAOSwAPVZEy8f/s-l1600.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "MUI Goku",
+    "image": "https://static.comicvine.com/uploads/original/11137/111372607/6749946-46108866_2138130396245355_1197692474502530083_n.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Naruto Sage 2",
+    "image": "https://404store.com/2017/03/18/naruto-uzumaki-sage-mode-wallpaper-2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "hollow ichigo coloured",
+    "image": "https://static.zerochan.net/Hollow.Ichigo.full.930054.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Naruto Ascending",
+    "image": "https://animejnr.files.wordpress.com/2017/11/4e4d41009d4b09db4f41f571c4076107-711963110.jpg?crop",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Ichigo Kurosaki",
+    "image": "http://fc06.deviantart.net/fs71/f/2013/262/8/8/ichigo_kurosaki_by_akira_12-d63bp7x.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "name": "Young Naruto",
+    "image": "http://static2.minitokyo.net/view/24/34/399224.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "name": "Naruto Sage Mode",
+    "image": "https://404store.com/2017/03/18/naruto-uzumaki-sage-mode-wallpaper-3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "name": "Ichigo Kurosaki 2 blades",
+    "image": "https://pre00.deviantart.net/4eed/th/pre/f/2013/280/9/6/kurosaki_ichigo_by_rizzo_chan-d6plo9e.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "name": "Hollow ichigo face",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2d799ef1-c48c-400f-a176-33d20cea81ba/dc79u4s-1b6ad140-9df9-4cb1-a463-7184a02b7e96.png/v1/fill/w_1000,h_800,q_80,strp/ichigo_kurosaki___hollow_form_by_ukaisunfu_dc79u4s-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODAwIiwicGF0aCI6IlwvZlwvMmQ3OTllZjEtYzQ4Yy00MDBmLWExNzYtMzNkMjBjZWE4MWJhXC9kYzc5dTRzLTFiNmFkMTQwLTlkZjktNGNiMS1hNDYzLTcxODRhMDJiN2U5Ni5wbmciLCJ3aWR0aCI6Ijw9MTAwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.HO44hBCRztq_2lhA0I7i7BwfD5PMKiCnqLkkhSK08hs",
+    "clicked": false
+  }
+]
